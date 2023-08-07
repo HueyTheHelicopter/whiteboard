@@ -1,0 +1,20 @@
+.notebook-cell {
+  background-image: url('./images/squared-paper-texture.png');
+  background-size: cover;
+  /* Adjust this to your preference */
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  max-height: -webkit-fit-content;
+  max-height: -moz-fit-content;
+  max-height: fit-content;
+  padding: 20px;
+  margin: 10px;
+  /* font-family: 'Your Handwriting Font', cursive; Optional: Use a handwriting font */
+  font-size: 16px;
+  /* Optional: Adjust font size */
+  line-height: 1.5;
+  /* Optional: Adjust line height */
+  color: #333;
+  /* Optional: Adjust text color */
+}
