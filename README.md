@@ -3,8 +3,12 @@
 ### `npm i react-rnd`
 ### `npm i react-xarrows`
 ### `npm i uuidv4`
+### `npm install -D tailwindcss`
 
-# For VSC install this ext, so the tailwind could work properly:
+## Configure Tailwind for react
+https://tailwindcss.com/docs/guides/create-react-app
+
+## For VSC install this ext, so the Tailwind could work properly:
 Name: PostCSS Language Support.\
 Id: csstools.postcss.\
 Description: Syntax highlighting for modern and experimental CSS in VSCode.\
